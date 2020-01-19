@@ -1,14 +1,11 @@
 {
-  "name": "serve",
-  "version": "1.0.0",
+  "name": "serve-please",
+  "version": "1.0.1",
   "author": "hasangenc.istanbul@hotmail.com",
   "description": "Serve static files",
   "main": "lib.js",
   "bin": {
     "serve": "lib.js"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@hasangenc0"
   },
   "repository": {
     "type": "git",
