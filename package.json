@@ -1,0 +1,22 @@
+{
+  "name": "serve",
+  "version": "1.0.0",
+  "author": "hasangenc.istanbul@hotmail.com",
+  "description": "Serve static files",
+  "main": "lib.js",
+  "bin": {
+    "serve": "lib.js"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@hasangenc0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasangenc0/serve.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node", "serve", "static"],
+  "license": "ISC"
+}
