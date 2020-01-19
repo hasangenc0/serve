@@ -1,4 +1,7 @@
 # Serve Static Files
+````
+npm install serve-please -g
+````
 
 ## Usage
 `serve` command looks `public` folder and serves in port 8080
