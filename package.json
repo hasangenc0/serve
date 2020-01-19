@@ -1,6 +1,6 @@
 {
   "name": "serve-please",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "author": "hasangenc.istanbul@hotmail.com",
   "description": "Serve static files",
   "main": "lib.js",
